@@ -1,3 +1,4 @@
 .project
 .pydevproject
 cooking_app/__pycache__/
+data/__pycache__/
